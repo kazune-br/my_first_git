@@ -2,3 +2,6 @@ Hello Git
 Add New Line
 Add comment from my branch
 add
+conda create -n py36 python=3.6 anaconda
+conda install tensorflow
+conda install keras
